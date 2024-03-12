@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/Dungeon.umap"
+				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/Dungeon.umap",
+				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset"
 			]
 		}
 	]
