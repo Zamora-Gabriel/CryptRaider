@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/Dungeon.umap",
-				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset"
+				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/BP_CryptRaiderGameMode.uasset",
+				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/Blueprints/BP_NewCryptRaiderGameMode.uasset",
+				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/MedievalDungeon/Blueprints/BP_Chandalier.uasset",
+				"G:/Repos/UnrealProjects/CryptRaider/CryptRaider - copia/CryptRaider/CryptRaiderGame/Content/BP_Torch_Dungeon.uasset"
 			]
 		}
 	]
