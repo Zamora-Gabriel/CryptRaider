@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeCryptRaiderGame_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xC9039CA9,
-				0x9848170D,
+				0x4CCC8102,
+				0xF4112776,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_CryptRaiderGame.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_CryptRaiderGame.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CryptRaiderGame(Z_Construct_UPackage__Script_CryptRaiderGame, TEXT("/Script/CryptRaiderGame"), Z_Registration_Info_UPackage__Script_CryptRaiderGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xC9039CA9, 0x9848170D));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CryptRaiderGame(Z_Construct_UPackage__Script_CryptRaiderGame, TEXT("/Script/CryptRaiderGame"), Z_Registration_Info_UPackage__Script_CryptRaiderGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4CCC8102, 0xF4112776));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

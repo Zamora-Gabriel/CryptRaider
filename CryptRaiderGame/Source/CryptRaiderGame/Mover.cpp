@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "Mover.h"
+#include "Math/UnrealMathUtility.h"
 
 // Sets default values for this component's properties
 UMover::UMover()
@@ -19,8 +19,7 @@ void UMover::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
-	
+	OriginalLocation = GetOwner()->GetActorLocation();
 }
 
 
@@ -29,13 +28,28 @@ void UMover::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponent
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	AActor* owner = GetOwner();
-	FString name = owner->GetActorNameOrLabel();
-	FVector vlocation = owner->GetActorLocation();
-	FString slocation = vlocation.ToCompactString();
+	//AActor* owner = GetOwner();
+	//FString name = owner->GetActorNameOrLabel();
+	//FVector vlocation = owner->GetActorLocation();
+	//FString slocation = vlocation.ToCompactString();
 
-	UE_LOG(LogTemp, Display, TEXT("This Door is named: %s"), *name);
-	UE_LOG(LogTemp, Display, TEXT("This Door is at: %s"), *slocation);
-	// ...
+	//UE_LOG(LogTemp, Display, TEXT("This Door is named: %s"), *name);
+	//UE_LOG(LogTemp, Display, TEXT("This Door is at: %s"), *slocation);
+
+	if (ShouldMove) 
+	{
+		Move(DeltaTime);
+	}
+}
+
+void UMover::Move(float DeltaTime)
+{
+	FVector currentLocation = GetOwner()->GetActorLocation();
+	FVector targetLocation = MoveOffset + OriginalLocation;
+	float speed = FVector::Distance(OriginalLocation, targetLocation) / MoveTime;
+
+	FVector newLocation = FMath::VInterpConstantTo(currentLocation, targetLocation, DeltaTime, speed);
+
+	GetOwner()->SetActorLocation(newLocation);
 }
 

@@ -11,6 +11,7 @@
     <None Include="..\..\Source\CryptRaiderGameEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -45,6 +46,12 @@
       <Filter>Source\CryptRaiderGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\CryptRaiderGame\Mover.h">
+      <Filter>Source\CryptRaiderGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CryptRaiderGame\ObjectRotator.cpp">
+      <Filter>Source\CryptRaiderGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CryptRaiderGame\ObjectRotator.h">
       <Filter>Source\CryptRaiderGame</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,10 +1,10 @@
-"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaiderGame\UHT\CryptRaiderGame.init.gen.cpp"
+"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Source\CryptRaiderGame\ObjectRotator.cpp"
 /FI"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\CryptRaiderGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
 /FI"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\Definitions.CryptRaiderGame.h"
 /Yu"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\CryptRaiderGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
 /Fp"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\CryptRaiderGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\CryptRaiderGame.init.gen.cpp.lc.obj"
-/sourceDependencies"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\CryptRaiderGame.init.gen.cpp.dep.lc.json"
+/Fo"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\ObjectRotator.cpp.lc.obj"
+/sourceDependencies"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\ObjectRotator.cpp.dep.lc.json"
 @"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\CryptRaiderGame.Shared.rsp"
 /Zc:inline
 /nologo
