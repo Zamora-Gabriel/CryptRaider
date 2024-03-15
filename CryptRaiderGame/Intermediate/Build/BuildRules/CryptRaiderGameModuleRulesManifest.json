@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\Repos\\UnrealProjects\\CryptRaider\\CryptRaider - copia\\CryptRaider\\CryptRaiderGame\\Source\\CryptRaiderGame\\CryptRaiderGame.Build.cs",
+		"G:\\Repos\\UnrealProjects\\CryptRaider\\CryptRaider - copia\\CryptRaider\\CryptRaiderGame\\Source\\CryptRaiderGame.Target.cs",
+		"G:\\Repos\\UnrealProjects\\CryptRaider\\CryptRaider - copia\\CryptRaider\\CryptRaiderGame\\Source\\CryptRaiderGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

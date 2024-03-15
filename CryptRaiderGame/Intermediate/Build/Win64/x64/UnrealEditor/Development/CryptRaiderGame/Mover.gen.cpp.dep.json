@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\repos\\unrealprojects\\cryptraider\\cryptraider - copia\\cryptraider\\cryptraidergame\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraidergame\\uht\\mover.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\repos\\unrealprojects\\cryptraider\\cryptraider - copia\\cryptraider\\cryptraidergame\\intermediate\\build\\win64\\x64\\cryptraidergameeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "g:\\repos\\unrealprojects\\cryptraider\\cryptraider - copia\\cryptraider\\cryptraidergame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraidergame\\definitions.cryptraidergame.h",
+            "g:\\repos\\unrealprojects\\cryptraider\\cryptraider - copia\\cryptraider\\cryptraidergame\\source\\cryptraidergame\\mover.h",
+            "g:\\repos\\unrealprojects\\cryptraider\\cryptraider - copia\\cryptraider\\cryptraidergame\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraidergame\\uht\\mover.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

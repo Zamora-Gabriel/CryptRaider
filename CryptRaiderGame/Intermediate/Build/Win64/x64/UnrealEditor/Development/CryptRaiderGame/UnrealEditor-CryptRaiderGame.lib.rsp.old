@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CryptRaiderGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\CryptRaiderGame.init.gen.cpp.obj"
+"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\Mover.gen.cpp.obj"
+"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\CryptRaiderGame.cpp.obj"
+"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\Mover.cpp.obj"
+"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\Default.rc2.res"
+/OUT:"G:\Repos\UnrealProjects\CryptRaider\CryptRaider - copia\CryptRaider\CryptRaiderGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CryptRaiderGame\UnrealEditor-CryptRaiderGame.lib"
